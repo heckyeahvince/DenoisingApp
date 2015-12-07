@@ -174,27 +174,3 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
 ```
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/9bbf8abe950cd0ba45b601b6122d08dc
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/Denoising
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-"*Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.*" -  Christopher Thompson
